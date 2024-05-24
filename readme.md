@@ -2,7 +2,7 @@
 
 This repository contains a Metadata Editor tool that allows you to read the metadata of PDF files in one folder and update the metadata of corresponding PDF files in another folder. Additionally, it provides instructions on how to use the tool and edit the source code.
 
-![PDF Metadata Editor](sample.jpg "Sample")
+![PDF Metadata Editor](metadata.jpg "Sample")
 ## Folder Structure
 
 The repository is structured as follows:
